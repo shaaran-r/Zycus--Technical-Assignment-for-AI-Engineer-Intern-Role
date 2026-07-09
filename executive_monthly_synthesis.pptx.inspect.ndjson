@@ -1,0 +1,109 @@
+{"kind":"deck","id":"pr/cbz637","name":"Deck"}
+{"kind":"layout","layoutId":"d7d74faa-ca1a-4eca-bc71-3c6fa122cf45","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"07bfd078-6044-4468-956b-afed8be0a307","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ilfpkd","slide":1,"title":"Monthly project health synthesis","textShapes":12}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":1,"text":"Monthly project health synthesis","textPreview":"Monthly project health synthesis","textChars":32,"textLines":1,"bbox":[42,42,900,70]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":1,"text":"Both sample implementations need intervention before more near-term dates turn late.","textPreview":"Both sample implementations need intervention before more near-term dates turn late.","textChars":84,"textLines":1,"bbox":[42,142,930,118]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":1,"bbox":[42,336,1196,1]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":1,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[42,400,260,70]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":1,"text":"projects assessed","textPreview":"projects assessed","textChars":17,"textLines":1,"bbox":[42,478,260,72]}
+{"kind":"textbox","id":"sh/9knih4by","slide":1,"text":"2/2","textPreview":"2/2","textChars":3,"textLines":1,"bbox":[350,400,260,70]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":1,"text":"rated Red","textPreview":"rated Red","textChars":9,"textLines":1,"bbox":[350,478,260,72]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":1,"text":"66","textPreview":"66","textChars":2,"textLines":1,"bbox":[658,400,260,70]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":1,"text":"active overdue tasks","textPreview":"active overdue tasks","textChars":20,"textLines":1,"bbox":[658,478,260,72]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":1,"text":"120","textPreview":"120","textChars":3,"textLines":1,"bbox":[966,400,260,70]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":1,"text":"active tasks due in 14 days","textPreview":"active tasks due in 14 days","textChars":27,"textLines":1,"bbox":[966,478,260,72]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":1,"text":"Assessment date: 2026-07-09. Inputs: two Excel project plans and comment sheets.","textPreview":"Assessment date: 2026-07-09. Inputs: two Excel project plans and comment sheets.","textChars":80,"textLines":1,"bbox":[42,652,980,28]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"notes","id":"nt/ilfpkd","slide":1,"text":""}
+{"kind":"slide","id":"sl/i15y1b","slide":2,"title":"PROJECT HEALTH REPORTING AGENT","textShapes":5}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"text":"PROJECT HEALTH REPORTING AGENT","textPreview":"PROJECT HEALTH REPORTING AGENT","textChars":30,"textLines":1,"bbox":[42,34,760,24]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"text":"The portfolio risk pattern is schedule-led, not isolated to one project","textPreview":"The portfolio risk pattern is schedule-led, not isolated to one project","textChars":71,"textLines":1,"bbox":[42,70,1040,92]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":2,"bbox":[42,166,1196,1]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":2,"text":"Across both plans, the strongest signal is schedule pressure: active overdue work, active Red tasks, and a large amount of work due within the next two weeks.","textPreview":"Across both plans, the strongest signal is schedule pressure: active overdue work, active Red tasks, and a large amount of work due withi...","textChars":158,"textLines":1,"bbox":[42,218,520,130]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"text":"Budget burn cannot be evaluated from the supplied files, so the agent discloses it as missing rather than inventing a score.","textPreview":"Budget burn cannot be evaluated from the supplied files, so the agent discloses it as missing rather than inventing a score.","textChars":124,"textLines":1,"bbox":[42,374,520,100]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"chart","id":"ch/kf6dcbul","slide":2,"name":"","chartType":"bar","title":"Near-term schedule load","bbox":[640,218,560,340]}
+{"kind":"notes","id":"nt/i15y1b","slide":2,"text":""}
+{"kind":"slide","id":"sl/jv3wl8","slide":3,"title":"PROJECT HEALTH REPORTING AGENT","textShapes":12}
+{"kind":"textbox","id":"sh/s72x4nap","slide":3,"text":"PROJECT HEALTH REPORTING AGENT","textPreview":"PROJECT HEALTH REPORTING AGENT","textChars":30,"textLines":1,"bbox":[42,34,760,24]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":3,"text":"Titan needs dependency closure; UniSan needs schedule recovery","textPreview":"Titan needs dependency closure; UniSan needs schedule recovery","textChars":62,"textLines":1,"bbox":[42,70,1040,92]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":3,"bbox":[42,166,1196,1]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":3,"bbox":[42,248,375,380]}
+{"kind":"textbox","id":"sh/sji5snel","slide":3,"text":"Titan S2P","textPreview":"Titan S2P","textChars":9,"textLines":1,"bbox":[74,288,310,42]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":3,"text":"22 overdue","textPreview":"22 overdue","textChars":10,"textLines":1,"bbox":[74,380,310,78]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":3,"text":"Progress is ahead of elapsed time, but on-hold D&B work, JDE mapping, and workshop impacts keep the project Red.","textPreview":"Progress is ahead of elapsed time, but on-hold D&B work, JDE mapping, and workshop impacts keep the project Red.","textChars":112,"textLines":1,"bbox":[74,500,300,92]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":3,"bbox":[453,248,375,380]}
+{"kind":"textbox","id":"sh/svu9knih","slide":3,"text":"UniSan S2P","textPreview":"UniSan S2P","textChars":10,"textLines":1,"bbox":[485,288,310,42]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":3,"text":"44 overdue","textPreview":"44 overdue","textChars":10,"textLines":1,"bbox":[485,380,310,78]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":"The project is 17.7 percentage points behind elapsed time and has heavier Red schedule concentration.","textPreview":"The project is 17.7 percentage points behind elapsed time and has heavier Red schedule concentration.","textChars":101,"textLines":1,"bbox":[485,500,300,92]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":3,"bbox":[864,248,375,380]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":3,"text":"Common issue","textPreview":"Common issue","textChars":12,"textLines":1,"bbox":[896,288,310,42]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":3,"text":"120 due soon","textPreview":"120 due soon","textChars":12,"textLines":1,"bbox":[896,380,310,78]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":3,"text":"A large two-week task load means the portfolio can create more misses unless closure cadence tightens now.","textPreview":"A large two-week task load means the portfolio can create more misses unless closure cadence tightens now.","textChars":106,"textLines":1,"bbox":[896,500,300,92]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"notes","id":"nt/jv3wl8","slide":3,"text":""}
+{"kind":"slide","id":"sl/7yrviu","slide":4,"title":"PROJECT HEALTH REPORTING AGENT","textShapes":18}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":4,"text":"PROJECT HEALTH REPORTING AGENT","textPreview":"PROJECT HEALTH REPORTING AGENT","textChars":30,"textLines":1,"bbox":[42,34,760,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":4,"text":"The biggest risks are operational, not measurement artifacts","textPreview":"The biggest risks are operational, not measurement artifacts","textChars":60,"textLines":1,"bbox":[42,70,1040,92]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":4,"bbox":[42,166,1196,1]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":4,"bbox":[42,226,1196,48]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":4,"text":"Trend","textPreview":"Trend","textChars":5,"textLines":1,"bbox":[54,238,210,30]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":4,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[302,238,390,30]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":4,"text":"Executive implication","textPreview":"Executive implication","textChars":21,"textLines":1,"bbox":[732,238,500,30]}
+{"kind":"shape","id":"sh/9knih4by","slide":4,"bbox":[42,274,1196,78]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"text":"Schedule pressure","textPreview":"Schedule pressure","textChars":17,"textLines":1,"bbox":[54,286,210,60]}
+{"kind":"textbox","id":"sh/ulwval87","slide":4,"text":"66 active overdue tasks and 67 active Red tasks","textPreview":"66 active overdue tasks and 67 active Red tasks","textChars":47,"textLines":1,"bbox":[302,286,390,60]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":4,"text":"Recovery needs active owner-level management, not passive reporting.","textPreview":"Recovery needs active owner-level management, not passive reporting.","textChars":68,"textLines":1,"bbox":[732,286,500,60]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":4,"bbox":[42,352,1196,78]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":4,"text":"Near-term load","textPreview":"Near-term load","textChars":14,"textLines":1,"bbox":[54,364,210,60]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"text":"120 active tasks due by 2026-07-23","textPreview":"120 active tasks due by 2026-07-23","textChars":34,"textLines":1,"bbox":[302,364,390,60]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":4,"text":"More slippage is likely without a two-week closure plan.","textPreview":"More slippage is likely without a two-week closure plan.","textChars":56,"textLines":1,"bbox":[732,364,500,60]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":4,"bbox":[42,430,1196,78]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"Dependency blockers","textPreview":"Dependency blockers","textChars":19,"textLines":1,"bbox":[54,442,210,60]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"text":"Titan comments cite impacted workshops, JDE mapping, meetings, and PH cleanup","textPreview":"Titan comments cite impacted workshops, JDE mapping, meetings, and PH cleanup","textChars":77,"textLines":1,"bbox":[302,442,390,60]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"text":"Client and internal dependencies need steering-level escalation.","textPreview":"Client and internal dependencies need steering-level escalation.","textChars":64,"textLines":1,"bbox":[732,442,500,60]}
+{"kind":"shape","id":"sh/bulwval8","slide":4,"bbox":[42,508,1196,78]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":4,"text":"Data gap","textPreview":"Data gap","textChars":8,"textLines":1,"bbox":[54,520,210,60]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":4,"text":"No budget fields in either workbook","textPreview":"No budget fields in either workbook","textChars":35,"textLines":1,"bbox":[302,520,390,60]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":4,"text":"Leadership cannot yet connect delivery health to margin impact.","textPreview":"Leadership cannot yet connect delivery health to margin impact.","textChars":63,"textLines":1,"bbox":[732,520,500,60]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"notes","id":"nt/7yrviu","slide":4,"text":""}
+{"kind":"slide","id":"sl/k5mfwd","slide":5,"title":"PROJECT HEALTH REPORTING AGENT","textShapes":15}
+{"kind":"textbox","id":"sh/u9knih4b","slide":5,"text":"PROJECT HEALTH REPORTING AGENT","textPreview":"PROJECT HEALTH REPORTING AGENT","textChars":30,"textLines":1,"bbox":[42,34,760,24]}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"text":"Recommended action is a two-week control cycle","textPreview":"Recommended action is a two-week control cycle","textChars":46,"textLines":1,"bbox":[42,70,1040,92]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":5,"bbox":[42,166,1196,1]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[64,227,48,48]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":5,"text":"Recover","textPreview":"Recover","textChars":7,"textLines":1,"bbox":[142,224,220,42]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":5,"text":"Create a daily closure list for overdue Red tasks and overdue active milestones.","textPreview":"Create a daily closure list for overdue Red tasks and overdue active milestones.","textChars":80,"textLines":1,"bbox":[390,227,760,58]}
+{"kind":"shape","id":"sh/c7u54zid","slide":5,"bbox":[42,300,1196,1]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[64,321,48,48]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":5,"text":"Escalate","textPreview":"Escalate","textChars":8,"textLines":1,"bbox":[142,318,220,42]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":5,"text":"Move client dependencies and on-hold items into the weekly steering forum with named decision owners.","textPreview":"Move client dependencies and on-hold items into the weekly steering forum with named decision owners.","textChars":101,"textLines":1,"bbox":[390,321,760,58]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":5,"bbox":[42,394,1196,1]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[64,415,48,48]}
+{"kind":"textbox","id":"sh/z61032ls","slide":5,"text":"Prevent","textPreview":"Prevent","textChars":7,"textLines":1,"bbox":[142,412,220,42]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":5,"text":"Pre-review all tasks due in the next 14 days before they become overdue.","textPreview":"Pre-review all tasks due in the next 14 days before they become overdue.","textChars":72,"textLines":1,"bbox":[390,415,760,58]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":5,"bbox":[42,488,1196,1]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[64,509,48,48]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":5,"text":"Instrument","textPreview":"Instrument","textChars":10,"textLines":1,"bbox":[142,506,220,42]}
+{"kind":"textbox","id":"sh/obm58z25","slide":5,"text":"Add budget planned, actual, forecast, and sentiment fields to strengthen future health scoring.","textPreview":"Add budget planned, actual, forecast, and sentiment fields to strengthen future health scoring.","textChars":95,"textLines":1,"bbox":[390,509,760,58]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":5,"bbox":[42,582,1196,1]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"notes","id":"nt/k5mfwd","slide":5,"text":""}
+{"kind":"slide","id":"sl/nk3ary","slide":6,"title":"PROJECT HEALTH REPORTING AGENT","textShapes":12}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":6,"text":"PROJECT HEALTH REPORTING AGENT","textPreview":"PROJECT HEALTH REPORTING AGENT","textChars":30,"textLines":1,"bbox":[42,34,760,24]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":6,"text":"The agent should become the weekly health operating rhythm","textPreview":"The agent should become the weekly health operating rhythm","textChars":58,"textLines":1,"bbox":[42,70,1040,92]}
+{"kind":"shape","id":"sh/61032lsz","slide":6,"bbox":[42,166,1196,1]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":6,"text":"Monday","textPreview":"Monday","textChars":6,"textLines":1,"bbox":[42,240,220,44]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":6,"text":"Read latest project plans and comments.","textPreview":"Read latest project plans and comments.","textChars":39,"textLines":1,"bbox":[42,294,280,90]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":6,"text":"Tuesday","textPreview":"Tuesday","textChars":7,"textLines":1,"bbox":[368,240,220,44]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":6,"text":"Publish Red/Amber deltas and overdue owner list.","textPreview":"Publish Red/Amber deltas and overdue owner list.","textChars":48,"textLines":1,"bbox":[368,294,280,90]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":6,"text":"Wednesday","textPreview":"Wednesday","textChars":9,"textLines":1,"bbox":[694,240,240,44]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":6,"text":"Use steering forum for dependency decisions.","textPreview":"Use steering forum for dependency decisions.","textChars":44,"textLines":1,"bbox":[694,294,280,90]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":6,"text":"Friday","textPreview":"Friday","textChars":6,"textLines":1,"bbox":[1020,240,180,44]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":6,"text":"Update client-ready summary and refresh monthly trend deck.","textPreview":"Update client-ready summary and refresh monthly trend deck.","textChars":59,"textLines":1,"bbox":[1020,294,220,110]}
+{"kind":"shape","id":"sh/wval87ed","slide":6,"bbox":[42,492,1196,92]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":6,"text":"Decision needed: confirm a two-week recovery owner for each Red project and add budget data to the standard plan export.","textPreview":"Decision needed: confirm a two-week recovery owner for each Red project and add budget data to the standard plan export.","textChars":120,"textLines":1,"bbox":[72,516,1130,44]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1186,660,52,24]}
+{"kind":"notes","id":"nt/nk3ary","slide":6,"text":""}

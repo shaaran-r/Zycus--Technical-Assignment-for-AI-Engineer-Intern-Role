@@ -1,0 +1,80 @@
+[
+  {
+    "time": "2026-07-09T07:32:26Z",
+    "node": "Read Excel + Pandas Profiler",
+    "status": "completed",
+    "detail": {
+      "plans": 2
+    }
+  },
+  {
+    "time": "2026-07-09T07:32:26Z",
+    "node": "Tool 1 - Project Analyzer",
+    "status": "completed",
+    "detail": {
+      "plan": "S2P Project (1).xlsx",
+      "rag": "Red",
+      "active_overdue": 22,
+      "red_active": 25
+    }
+  },
+  {
+    "time": "2026-07-09T07:32:26Z",
+    "node": "Tool 1 - Project Analyzer",
+    "status": "completed",
+    "detail": {
+      "plan": "Project Plan B (1).xlsx",
+      "rag": "Red",
+      "active_overdue": 44,
+      "red_active": 42
+    }
+  },
+  {
+    "time": "2026-07-09T07:32:39Z",
+    "node": "Tool 4 - Stakeholder Sentiment",
+    "status": "completed",
+    "detail": {
+      "provider": "gemini",
+      "model": "gemini-2.5-flash",
+      "duration_ms": 12283,
+      "projects": 2
+    }
+  },
+  {
+    "time": "2026-07-09T07:33:09Z",
+    "node": "Tool 2 - Risk Detector",
+    "status": "completed",
+    "detail": {
+      "provider": "gemini",
+      "model": "gemini-2.5-flash",
+      "duration_ms": 30518,
+      "projects": 2
+    }
+  },
+  {
+    "time": "2026-07-09T07:33:21Z",
+    "node": "LLM - Executive Synthesizer",
+    "status": "completed",
+    "detail": {
+      "provider": "gemini",
+      "model": "gemini-2.5-flash",
+      "duration_ms": 11412
+    }
+  },
+  {
+    "time": "2026-07-09T07:33:21Z",
+    "node": "Tool 6 - Report Writer",
+    "status": "completed",
+    "detail": {
+      "files": 3
+    }
+  },
+  {
+    "time": "2026-07-09T07:33:21Z",
+    "node": "Agent Trace",
+    "status": "completed",
+    "detail": {
+      "path": "sample_outputs\\agent_execution_trace.json"
+    }
+  }
+]

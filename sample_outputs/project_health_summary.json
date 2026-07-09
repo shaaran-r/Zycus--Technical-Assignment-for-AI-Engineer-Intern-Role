@@ -1,0 +1,461 @@
+{
+  "projects": [
+    {
+      "source_file": "C:\\Users\\shara\\Downloads\\S2P Project (1).xlsx",
+      "project_name": "Zycus - Titan S2P Implementation",
+      "project_manager": "Aftab Hashambhai",
+      "project_stage": "Configuration and Build phase",
+      "as_of": "2026-07-09",
+      "rag": "Red",
+      "confidence": "High",
+      "reason": "Overall status is Red because schedule is Red and blockers are Red. 22 active tasks are past their planned end date, with 25 active tasks already marked Red by the plan. Progress is ahead of elapsed time by about 12.1 percentage points. The workbook summary marks project risk as High. Stakeholder/commentary evidence includes 6 blocker-like notes.",
+      "recommendations": [
+        "Run a two-week recovery plan for overdue Red and overdue active tasks, with named owners and daily closure tracking.",
+        "Reconfirm milestone dates and publish a revised baseline for any milestone already past due.",
+        "Escalate open dependencies and at-risk items in the weekly client steering forum.",
+        "Add budget planned, actual, and forecast fields so financial burn can be scored instead of treated as missing.",
+        "Pre-review the 50 active tasks due in the next 14 days to prevent additional slippage."
+      ],
+      "signals": {
+        "schedule": "Red",
+        "progress": "Green",
+        "milestones": "Red",
+        "blockers": "Red",
+        "stakeholder_sentiment": "Red",
+        "budget": "Missing",
+        "data_quality": "Amber"
+      },
+      "metrics": {
+        "total_tasks": 493,
+        "active_tasks": 222,
+        "status_counts": {
+          "In Progress": 22,
+          "Completed": 262,
+          "Not Applicable": 9,
+          "On Hold": 3,
+          "Not Started": 197
+        },
+        "schedule_counts": {
+          "Green": 465,
+          "Amber": 2,
+          "Red": 25
+        },
+        "red_active_tasks": 25,
+        "amber_active_tasks": 2,
+        "overdue_active_tasks": 22,
+        "upcoming_14_day_active_tasks": 50,
+        "risk_flagged_tasks": 4,
+        "on_hold_tasks": 3,
+        "milestone_count": 18,
+        "active_milestones": 10,
+        "overdue_milestones": 2,
+        "red_milestones": 5,
+        "percent_complete": 0.71,
+        "time_elapsed_ratio": 0.5886,
+        "progress_gap": -0.1214,
+        "summary_at_risk": "High",
+        "summary_schedule_health": "Green",
+        "current_stage": "Configuration and Build phase",
+        "negative_comment_count": 6,
+        "positive_comment_count": 3,
+        "blocker_comments": [
+          "Row 292 | Due to parallel phase 1 activities onsite workshop dates are impacted | Sarika Arthmwar | 05/18/26 7:31 AM",
+          "Row 299 | JDE mapping is pending only | Sarika Arthmwar | 06/26/26 2:39 PM",
+          "Row 301 | JDE field mapping remain to complete for PO outbound & GR Inbound @vinayaka.soratoor@zycus.com | Sarika Arthmwar | 06/26/26 2:40 PM",
+          "Row 385 | @aftab.hashambhai@zycus.com Need meeting on calendar for this | Vinayaka Soratoor | 06/23/26 9:29 AM",
+          "Row 391 | @aftab.hashambhai@zycus.com  PH name need to be changed | Vinayaka Soratoor | 06/23/26 9:30 AM",
+          "Row 411 | @aftab.hashambhai@zycus.com  Need to have these on calendar, as a outcome of workshop mapping will be complete, OTK will have time till this date to review and make any changes | Vinayaka Soratoor | 06/23/26 9:25 AM"
+        ],
+        "overdue_examples": [
+          {
+            "task": "OTK to share D&B creds",
+            "status": "On Hold",
+            "schedule_health": "Red",
+            "end": "2026-03-19",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Enable D & B App",
+            "status": "On Hold",
+            "schedule_health": "Red",
+            "end": "2026-03-24",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Supplier Notification template",
+            "status": "On Hold",
+            "schedule_health": "Red",
+            "end": "2026-03-26",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Functional Confuguration on Staging System/ Setup",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-04-20",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Update configurations based as per IAD (Solution Design) using agreed Commodity, Division Tree & Project Stages",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-04-20",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Supplier Information Management with Integration",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-04-20",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "iSupplier Deployment",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-04-20",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Repo Sample Supplier Upload on STAGING for iSource/iContract/iRisk",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-04-20",
+            "phase": "",
+            "owner": ""
+          }
+        ],
+        "upcoming_examples": [
+          {
+            "task": "Develop & Publish 1st draft of Implementation Approach Document (IAD) for eProc-eInvoice",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Review and feedback incorporation",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Workflow details & CULT table details to be provided by OTK",
+            "status": "Not Started",
+            "schedule_health": "Red",
+            "end": "2026-07-10",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "P2P Integration Design",
+            "status": "In Progress",
+            "schedule_health": "Amber",
+            "end": "2026-07-10",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Sign off on LLD",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-10",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Configuration Documentation workshop",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-07-13",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "eProc-eInvoice IAD Review and Sign off by Titan",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-13",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Questionnaire Sharing and Sample Files with Supplier",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-13",
+            "phase": "",
+            "owner": ""
+          }
+        ],
+        "data_quality_notes": [
+          "Budget burn data is not present; budget signal is treated as neutral/missing."
+        ]
+      },
+      "evidence": {
+        "overdue_examples": [
+          "OTK to share D&B creds",
+          "Enable D & B App",
+          "Supplier Notification template",
+          "Functional Confuguration on Staging System/ Setup",
+          "Update configurations based as per IAD (Solution Design) using agreed Commodity, Division Tree & Project Stages",
+          "Supplier Information Management with Integration",
+          "iSupplier Deployment",
+          "Repo Sample Supplier Upload on STAGING for iSource/iContract/iRisk"
+        ],
+        "upcoming_examples": [
+          "Develop & Publish 1st draft of Implementation Approach Document (IAD) for eProc-eInvoice",
+          "Review and feedback incorporation",
+          "Workflow details & CULT table details to be provided by OTK",
+          "P2P Integration Design",
+          "Sign off on LLD",
+          "Configuration Documentation workshop",
+          "eProc-eInvoice IAD Review and Sign off by Titan",
+          "Questionnaire Sharing and Sample Files with Supplier"
+        ],
+        "blocker_comments": [
+          "Row 292 | Due to parallel phase 1 activities onsite workshop dates are impacted | Sarika Arthmwar | 05/18/26 7:31 AM",
+          "Row 299 | JDE mapping is pending only | Sarika Arthmwar | 06/26/26 2:39 PM",
+          "Row 301 | JDE field mapping remain to complete for PO outbound & GR Inbound @vinayaka.soratoor@zycus.com | Sarika Arthmwar | 06/26/26 2:40 PM",
+          "Row 385 | @aftab.hashambhai@zycus.com Need meeting on calendar for this | Vinayaka Soratoor | 06/23/26 9:29 AM",
+          "Row 391 | @aftab.hashambhai@zycus.com  PH name need to be changed | Vinayaka Soratoor | 06/23/26 9:30 AM"
+        ],
+        "data_quality_notes": [
+          "Budget burn data is not present; budget signal is treated as neutral/missing."
+        ]
+      }
+    },
+    {
+      "source_file": "C:\\Users\\shara\\Downloads\\Project Plan B (1).xlsx",
+      "project_name": "Zycus - UniSan S2P Implementation",
+      "project_manager": "Rajat Bothra",
+      "project_stage": "Training Phase I",
+      "as_of": "2026-07-09",
+      "rag": "Red",
+      "confidence": "High",
+      "reason": "Overall status is Red because schedule is Red and blockers are Red. 44 active tasks are past their planned end date, with 42 active tasks already marked Red by the plan. Progress is about 17.7 percentage points behind elapsed time. The workbook summary marks project risk as High.",
+      "recommendations": [
+        "Run a two-week recovery plan for overdue Red and overdue active tasks, with named owners and daily closure tracking.",
+        "Reconfirm milestone dates and publish a revised baseline for any milestone already past due.",
+        "Escalate open dependencies and at-risk items in the weekly client steering forum.",
+        "Add budget planned, actual, and forecast fields so financial burn can be scored instead of treated as missing.",
+        "Pre-review the 70 active tasks due in the next 14 days to prevent additional slippage."
+      ],
+      "signals": {
+        "schedule": "Red",
+        "progress": "Amber",
+        "milestones": "Red",
+        "blockers": "Red",
+        "stakeholder_sentiment": "Neutral",
+        "budget": "Missing",
+        "data_quality": "Amber"
+      },
+      "metrics": {
+        "total_tasks": 383,
+        "active_tasks": 234,
+        "status_counts": {
+          "In Progress": 42,
+          "Completed": 149,
+          "Not Started": 192
+        },
+        "schedule_counts": {
+          "Red": 42,
+          "Green": 332,
+          "Amber": 9
+        },
+        "red_active_tasks": 42,
+        "amber_active_tasks": 9,
+        "overdue_active_tasks": 44,
+        "upcoming_14_day_active_tasks": 70,
+        "risk_flagged_tasks": 0,
+        "on_hold_tasks": 0,
+        "milestone_count": 40,
+        "active_milestones": 24,
+        "overdue_milestones": 2,
+        "red_milestones": 5,
+        "percent_complete": 0.44,
+        "time_elapsed_ratio": 0.6167,
+        "progress_gap": 0.1767,
+        "summary_at_risk": "High",
+        "summary_schedule_health": "Red",
+        "current_stage": "Training Phase I",
+        "negative_comment_count": 0,
+        "positive_comment_count": 0,
+        "blocker_comments": [],
+        "overdue_examples": [
+          {
+            "task": "Training Phase I",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-05-28",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Train The Trainer",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-05-28",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Admin Training",
+            "status": "Not Started",
+            "schedule_health": "Red",
+            "end": "2026-05-28",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "UniSan to provide supplier bulk upload data in the template provided by Zycus from UniSan's Staging environment",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-06-12",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Zycus to review the files and provide feedback",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-06-15",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Integration Design",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-06-24",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Review of TDD and share feedback with Zycus",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-06-24",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Sign off on TDD",
+            "status": "Not Started",
+            "schedule_health": "Red",
+            "end": "2026-06-24",
+            "phase": "",
+            "owner": ""
+          }
+        ],
+        "upcoming_examples": [
+          {
+            "task": "Integrations eproc",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "eProc Integration with SAP for Purchase order",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Development and Testing on STAGING Set Up",
+            "status": "In Progress",
+            "schedule_health": "Red",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "CLM Configuration Documentation",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "iSupplier Configuration Documentation",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Systems Integration Testing",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "SIT on STAGING Set Up",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          },
+          {
+            "task": "Sign off on SIT",
+            "status": "Not Started",
+            "schedule_health": "Green",
+            "end": "2026-07-09",
+            "phase": "",
+            "owner": ""
+          }
+        ],
+        "data_quality_notes": [
+          "Budget burn data is not present; budget signal is treated as neutral/missing.",
+          "No stakeholder comments were available; sentiment confidence is lower."
+        ]
+      },
+      "evidence": {
+        "overdue_examples": [
+          "Training Phase I",
+          "Train The Trainer",
+          "Admin Training",
+          "UniSan to provide supplier bulk upload data in the template provided by Zycus from UniSan's Staging environment",
+          "Zycus to review the files and provide feedback",
+          "Integration Design",
+          "Review of TDD and share feedback with Zycus",
+          "Sign off on TDD"
+        ],
+        "upcoming_examples": [
+          "Integrations eproc",
+          "eProc Integration with SAP for Purchase order",
+          "Development and Testing on STAGING Set Up",
+          "CLM Configuration Documentation",
+          "iSupplier Configuration Documentation",
+          "Systems Integration Testing",
+          "SIT on STAGING Set Up",
+          "Sign off on SIT"
+        ],
+        "blocker_comments": [],
+        "data_quality_notes": [
+          "Budget burn data is not present; budget signal is treated as neutral/missing.",
+          "No stakeholder comments were available; sentiment confidence is lower."
+        ]
+      }
+    }
+  ]
+}

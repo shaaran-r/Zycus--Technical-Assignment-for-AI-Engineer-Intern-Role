@@ -1,0 +1,23 @@
+{
+  "weights": {
+    "schedule": 0.35,
+    "milestones": 0.2,
+    "blockers": 0.2,
+    "progress": 0.15,
+    "stakeholder_sentiment": 0.05,
+    "data_quality": 0.05
+  },
+  "thresholds": {
+    "red_score": 1.2,
+    "amber_score": 0.55,
+    "progress_gap_amber": 0.1,
+    "progress_gap_red": 0.25
+  },
+  "llm": {
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "temperature": 0.1,
+    "max_retries": 3,
+    "retry_backoff_seconds": 1.5
+  }
+}
