@@ -176,33 +176,25 @@ Example:
 
 ---
 
-# Running the Project
+## Running the Project
 
-## Run with Gemini
+Open a terminal in the project root directory (the folder containing `README.md`, `config.json`, and the sample Excel files).
 
-Set your Gemini API key.
-
-### Windows CMD
-
-```cmd
-set GEMINI_API_KEY=YOUR_API_KEY
-```
-
-### Windows PowerShell
+### Set the Gemini API Key
 
 ```powershell
-$env:GEMINI_API_KEY="YOUR_API_KEY"
+$env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
 ```
 
-Run the application:
+### Run the Application
 
-```bash
-python src/agentic_project_health_agent.py ^
-"C:\path\to\S2P Project (1).xlsx" ^
-"C:\path\to\Project Plan B (1).xlsx" ^
---as-of 2026-07-09 ^
---output-dir sample_outputs ^
---config config.json ^
+```powershell
+python .\src\agentic_project_health_agent.py `
+".\S2P Project (1).xlsx" `
+".\Project Plan B (1).xlsx" `
+--as-of 2026-07-09 `
+--output-dir sample_outputs `
+--config config.json `
 --llm-provider gemini
 ```
 
@@ -210,19 +202,15 @@ python src/agentic_project_health_agent.py ^
 
 ## Deterministic Mode (Without AI)
 
-The workflow can also run without Gemini.
-
-```bash
-python src/agentic_project_health_agent.py ^
-"C:\path\to\S2P Project (1).xlsx" ^
-"C:\path\to\Project Plan B (1).xlsx" ^
---as-of 2026-07-09 ^
---output-dir sample_outputs ^
---config config.json ^
+```powershell
+python .\src\agentic_project_health_agent.py `
+".\S2P Project (1).xlsx" `
+".\Project Plan B (1).xlsx" `
+--as-of 2026-07-09 `
+--output-dir sample_outputs `
+--config config.json `
 --llm-provider none
 ```
-
----
 
 # Generated Outputs
 
